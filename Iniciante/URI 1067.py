@@ -1,6 +1,6 @@
 numero = int(input())
-contador = 1
-while contador <= numero:
-    if contador % 2 != 0:
-        print(contador)
-    contador += 1
+contadora = 1
+while numero >= contadora:
+    if contadora % 2 != 0:
+        print(contadora)
+    contadora += 1
